@@ -1,7 +1,7 @@
 import React,{Component} from "react";
 import books from '../books'
 import Filter from './Filter'
-import Details from "./details";
+
 
 import {Link  } from 'react-router-dom';
   
